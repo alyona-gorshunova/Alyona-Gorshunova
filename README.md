@@ -35,8 +35,8 @@ I am a Data Analyst from Russia. <img src="https://media.giphy.com/media/v1.Y2lk
 ![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
 
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alyona-gorshunova&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyona-gorshunova&layout=compact&theme=vision-friendly-dark)](https://github.com/alyona-gorshunova/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyona-gorshunova&layout=compact&theme=vision-friendly-dark)](https://github.com/alyona-gorshunova/github-readme-stats)-->
 
